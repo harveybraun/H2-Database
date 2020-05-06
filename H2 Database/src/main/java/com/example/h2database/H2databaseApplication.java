@@ -8,7 +8,6 @@ public class H2databaseApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(H2databaseApplication.class, args);
-
 		System.out.println("Iniciando...");
 	}
 
